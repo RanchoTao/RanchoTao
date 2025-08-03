@@ -34,8 +34,10 @@ Thank you so much for your support!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Stream314&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+Languages and Tools
+
 <p align="center">
-  Languages and Tools
+  
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
