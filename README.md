@@ -6,7 +6,7 @@
 </p>
 
 
-I am a passionate self-taught full-stack web developer, open source maintainer, and contributor.
+I am a passionate self-taught full-stack developer, open source maintainer, and contributor.
 
 If you like any of my projects or would like to support my work, please consider becoming my sponsor. This will give me great motivation to continue maintaining my projects and contributing to the open source community.
 
