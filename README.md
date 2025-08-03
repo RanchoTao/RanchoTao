@@ -29,11 +29,6 @@ Thank you so much for your support!
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Stream314&show_icons=true&theme=gotham" alt="Tao" />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Stream314&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 <p align="center" >
 <a href="https://github.com/Stream314/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=Stream314&&show_icons=true&theme=radical"/>
@@ -42,6 +37,9 @@ Thank you so much for your support!
 </p>
 
 <br />
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Stream314&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### - Languages and Tools...
 
