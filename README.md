@@ -28,11 +28,6 @@ Thank you so much for your support!
 
 
 📈 my github stats
-
-<p align="center" >
- <h4> Full Stack | Competitive Programming </h4>
-  </p>
-
 <!--  -->
 
 <a href="https://github.com/Stream314/github-readme-stats"> 
