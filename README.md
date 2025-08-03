@@ -8,11 +8,11 @@ I am trying to make the world a better place!
 
 Thank you so much for your support! 
 
-- 🌱 I’m currently learning linear Algebra
-- 💬 Ask me about anything
-- 📫 How to reach me: RanchoTao@gmail.com
-- 😄 Pronouns: he/him  I am not interested in LGBTQ
-- ⚡ Fun fact: My height 191cm
+-  I’m currently learning linear Algebra
+-  Ask me about anything
+-  How to reach me: RanchoTao@gmail.com
+-  Pronouns: he/him  I am not interested in LGBTQ
+-  Fun fact: My height 191cm
 
 📈 my github stats
 
