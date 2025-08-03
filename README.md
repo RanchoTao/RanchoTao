@@ -26,10 +26,3 @@ Thank you so much for your support!
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Stream314&show_icons=true&theme=gotham" alt="Tao" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-<a href="https://github.com/Stream314/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stream314&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/Stream314/Stream314.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Stream314&repo=Stream314.github.io&theme=buefy" />
-</a>
