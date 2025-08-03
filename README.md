@@ -17,3 +17,6 @@ Thank you so much for your support!
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Stream314&show_icons=true&theme=gotham" alt="Tao" />
+
+![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
+![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
