@@ -34,7 +34,7 @@ Thank you so much for your support!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Stream314&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-Languages and Tools
+### Languages and Tools
 
 <p align="center">
   
