@@ -1,6 +1,10 @@
-## Hi !  I am Tao
+## Hi !  I am Tao, a passionate self-taught full-stack web developer, open source maintainer, and contributor.
 
-Here are some ideas to get you started:
+If you like any of my projects or would like to support my work, please consider becoming my sponsor. This will give me great motivation to continue maintaining my projects and contributing to the open source community.
+
+I am trying to make the world a better place!
+
+Thank you so much for your support! 
 
 - 🌱 I’m currently learning linear Algebra
 - 💬 Ask me about anything
