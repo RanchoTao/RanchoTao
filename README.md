@@ -18,5 +18,5 @@ Thank you so much for your support!
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Stream314&show_icons=true&theme=gotham" alt="Tao" />
 
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
+![](https://github.com/Stream314/Stream314/blob/master/generated/overview.svg)
+![](https://github.com/Stream314/Stream314/blob/master/generated/languages.svg)
