@@ -13,7 +13,7 @@ Thank you so much for your support!
 -  How to reach me: RanchoTao@gmail.com
 -  Pronouns: he/him  I am not interested in LGBTQ
 -  Fun fact: My height 191cm
--  Ask me about anything [here]((https://github.com/Stream314/Stream314/issues))
+-  Ask me about anything [here](https://github.com/Stream314/Stream314/issues)
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
