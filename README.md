@@ -30,6 +30,11 @@ Thank you so much for your support!
 📈 my github stats
 
 <p align="center" >
+ <h4> Full Stack | Competitive Programming </h4>
+  </p>
+
+<!--  -->
+
 <a href="https://github.com/Stream314/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=Stream314&&show_icons=true&theme=radical"/>
   </a>
@@ -38,6 +43,7 @@ Thank you so much for your support!
 
 <br />
 
+###
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Stream314&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
