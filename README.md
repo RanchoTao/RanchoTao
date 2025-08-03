@@ -32,11 +32,8 @@ Thank you so much for your support!
 
 <br />
 
-###
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Stream314&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-### - Languages and Tools...
+### - Languages and Tools
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
