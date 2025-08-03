@@ -14,8 +14,7 @@ I am trying to make the world a better place!
 
 Thank you so much for your support! 
 
--  I’m currently learning linear Algebra
--  Ask me about anything
+-  I’m currently learning Image generation and scene generation methods based on large models
 -  How to reach me: RanchoTao@gmail.com
 -  Pronouns: he/him  I am not interested in LGBTQ
 -  Fun fact: My height 191cm
