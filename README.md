@@ -31,7 +31,7 @@ Thank you so much for your support!
 
 <br />
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Stream314&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=Stream314&theme=radical&title=-Reviews)
 
 ### Languages and Tools
 
