@@ -14,9 +14,14 @@ Thank you so much for your support!
 -  Pronouns: he/him  I am not interested in LGBTQ
 -  Fun fact: My height 191cm
 
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=6aa6f8)
+
+
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Stream314&show_icons=true&theme=gotham" alt="Tao" />
 
-![](https://github.com/Stream314/Stream314/blob/master/generated/overview.svg)
-![](https://github.com/Stream314/Stream314/blob/master/generated/languages.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
