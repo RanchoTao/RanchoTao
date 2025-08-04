@@ -8,8 +8,7 @@
 
 I am a passionate self-taught full-stack developer, open source maintainer, and contributor.
 
-If you are affiliated with Tsinghua University and you like any of my projects or would like to support me, please consider recommending me for admission to Tsinghua University's graduate program.
-This would give me tremendous motivation to achieve even better results.
+If you are affiliated with Tsinghua University and you like any of my projects or would like to support me, please consider recommending me for admission to Tsinghua University's graduate program.This would give me tremendous motivation to achieve even better results.
 
 I will continue to maintain my projects and contribute to the open source community.
 
