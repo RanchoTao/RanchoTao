@@ -8,11 +8,14 @@
 
 I am a passionate self-taught full-stack developer, open source maintainer, and contributor.
 
-If you like any of my projects or would like to support my work, please consider becoming my sponsor. This will give me great motivation to continue maintaining my projects and contributing to the open source community.
+If you are affiliated with Tsinghua University and you like any of my projects or would like to support me, please consider recommending me for admission to Tsinghua University's graduate program.
+This would give me tremendous motivation to achieve even better results.
 
-I am trying to make the world a better place!
+I will continue to maintain my projects and contribute to the open source community.
 
-Thank you so much for your support! 
+I am working hard to make the world a better place!
+
+Thank you very much for your support!
 
 -  I’m currently learning Image generation and scene generation methods based on large models
 -  How to reach me: RanchoTao@gmail.com
