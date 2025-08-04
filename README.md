@@ -12,7 +12,7 @@ If you are affiliated with Tsinghua University and you like any of my projects o
 
 I will continue to maintain my projects and contribute to the open source community.
 
-I am working hard to make the world a better place!
+I am trying to make the world a better place!
 
 Thank you very much for your support!
 
