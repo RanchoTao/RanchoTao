@@ -8,6 +8,8 @@
 
 I am a passionate self-taught full-stack developer, open source maintainer, and contributor.
 
+I was born in 2005 and majored in electrical engineering and automation in college.
+
 I will continue to maintain my projects and contribute to the open source community.
 
 I am trying to make the world a better place!
@@ -20,7 +22,7 @@ Thank you very much for your support!
 -  Fun fact: My height 191cm
 -  Ask me about anything [here](https://github.com/Stream314/Stream314/issues)
 
-📈 my github stats
+ my github stats
 <!--  -->
 
 <a href="https://github.com/Stream314/github-readme-stats"> 
