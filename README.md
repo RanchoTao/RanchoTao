@@ -6,11 +6,11 @@
 </p>
 
 
-I am a passionate self-taught full-stack developer, open source maintainer, and contributor.
+I am a passionate self-taught full-stack developer, open source maintainer, and contributor
 
-I was born in Beijing in 2005 and majored in electrical engineering and automation in college.
+I was born in Beijing in 2005 and majored in electrical engineering and automation in college
 
-I will continue to maintain my projects and contribute to the open source community.
+I will continue to maintain my projects and contribute to the open source community
 
 I am trying to make the world a better place!
 
