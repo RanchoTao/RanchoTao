@@ -6,7 +6,7 @@
 </p>
 
 
-I am a passionate self-taught full-stack developer, open source maintainer, and contributor.水一下
+I am a passionate self-taught full-stack developer, open source maintainer, and contributor.
 
 I was born in Beijing in 2005 and majored in electrical engineering and automation in college.
 
