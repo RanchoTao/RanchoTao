@@ -16,7 +16,7 @@ I am trying to make the world a better place!
 
 Thank you very much for your support!
 
--  I’m currently learning Image generation and scene generation methods based on large models
+-  I’m currently learning [computer science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulI)
 -  How to reach me: RanchoTao@gmail.com
 -  Pronouns: he/him  I am not interested in LGBTQ
 -  Fun fact: My height 191cm
