@@ -7,7 +7,7 @@
 
 
 I am a passionate self-taught full-stack developer, open source maintainer, and contributor.
-
+1
 I was born in Beijing in 2005 and majored in electrical engineering and automation in college.
 
 I will continue to maintain my projects and contribute to the open source community.
