@@ -11,7 +11,7 @@ I was born in Beijing in 2005 and majored in electrical engineering and automati
 
 I will continue to maintain my projects and contribute to the open source community.
 
-I am trying to make the world a better place!
+I hope to make a positive impact through technology and open source!
 
 Thank you very much for your support!
 
