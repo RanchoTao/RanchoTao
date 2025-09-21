@@ -76,7 +76,7 @@ Thank you very much for your support!
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**Multimedia & Creative Tools：**
+**Creative Tools：**
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Premiere](https://img.shields.io/badge/Premiere-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
