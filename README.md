@@ -18,7 +18,7 @@ Thank you very much for your support!
 -  I’m currently learning [computer science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulI)
 -  How to reach me: RanchoTao@gmail.com
 -  Pronouns: he/him
--  Fun fact: My height 190cm
+-  Fun fact: My height 191cm
 -  Ask me about anything [here](https://github.com/Stream314/Stream314/issues)
 
  my github stats
