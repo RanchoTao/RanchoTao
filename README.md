@@ -15,7 +15,7 @@ I hope to make a positive impact through technology and open source!
 
 Thank you very much for your support!
 
--  I’m currently learning [computer science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulI)
+-  I’m currently learning NLP
 -  How to reach me: RanchoTao@gmail.com
 -  Pronouns: he/him
 -  Fun fact: My height 191cm
