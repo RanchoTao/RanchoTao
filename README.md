@@ -15,17 +15,15 @@ I hope to make a positive impact through technology and open source!
 
 Thank you very much for your support!
 
--  I’m currently learning NLP
+-  I’m currently learning LLM
 -  How to reach me: RanchoTao@gmail.com
--  Pronouns: he/him
--  Fun fact: My height 191cm
--  Ask me about anything [here](https://github.com/Stream314/Stream314/issues)
+-  Ask me about anything [here](https://github.com/RanchoTao/RanchoTao/issues)
 
  my github stats
 <!--  -->
 
-<a href="https://github.com/Stream314/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=Stream314&&show_icons=true&theme=radical"/>
+<a href="https://github.com/RanchoTao/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=RanchoTao&&show_icons=true&theme=radical"/>
   </a>
 
 </p>
