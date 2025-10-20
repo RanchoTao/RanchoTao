@@ -7,8 +7,6 @@
 
 I am a passionate self-taught full-stack developer, open source maintainer, and contributor.
 
-I was born in Beijing in 2005 and I majored in electrical engineering and automation in college.
-
 I will continue to maintain my projects and contribute to the open source community.
 
 I hope to make a positive impact through technology and open source!
@@ -30,7 +28,7 @@ Thank you very much for your support!
 
 <br />
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Stream314&theme=radical&title=-Reviews)
+![trophy](https://github-profile-trophy.vercel.app/?username=RanchoTao&theme=radical&title=-Reviews)
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
