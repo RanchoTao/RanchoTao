@@ -17,14 +17,5 @@ Thank you very much for your support!
 -  How to reach me: RanchoTao@gmail.com
 -  Ask me about anything [here](https://github.com/RanchoTao/RanchoTao/issues)
 
- my github stats
-<!--  -->
-
-<a href="https://github.com/RanchoTao/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=RanchoTao&&show_icons=true&theme=radical"/>
-  </a>
-
-</p>
-
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
