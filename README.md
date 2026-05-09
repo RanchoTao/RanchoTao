@@ -1,6 +1,6 @@
 ## Hi !  I am Rancho
 
-I am a passionate full-stack developer, open source maintainer, and contributor.
+I am a passionate AI-native builder, open source maintainer, and contributor.
 
 I will continue to maintain my projects and contribute to the open source community.
 
