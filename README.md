@@ -1,13 +1,22 @@
-## Hi !  I am Rancho
+## Math & AI undergraduate at BIMSA.
 
-I am a passionate AI-native builder, open source maintainer, and contributor.
+Building:
+- Quantitative systems
+- AI-native tools
+- Personal operating systems
 
-I will continue to maintain my projects and contribute to the open source community.
+Interested in:
+- Reinforcement Learning
+- Quant Trading
+- Human-AI collaboration
+- Computational social systems
 
-I hope to make a positive impact through technology and open source!
+Currently building:
+- Visualized-Deadline
+- BLOCK
+- Quant
 
 Thank you very much for your support!
-
 -  I’m currently learning RL
 -  How to reach me: RanchoTao@gmail.com
 -  Ask me about anything [here](https://github.com/RanchoTao/RanchoTao/issues)
