@@ -12,12 +12,11 @@ Interested in:
 - Computational social systems
 
 Currently building:
-- Visualized-Deadline
-- BLOCK
+- Visualized-Deadline:Trying to externalize human attention management.
+- BLOCK:A blacklist-first operating layer for digital environments.
 - Quant
 
-Thank you very much for your support!
--  I’m currently learning RL
+-  Interested in reinforcement learning for human-AI systems.
 -  How to reach me: RanchoTao@gmail.com
 -  Ask me about anything [here](https://github.com/RanchoTao/RanchoTao/issues)
 
