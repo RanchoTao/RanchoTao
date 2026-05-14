@@ -12,9 +12,9 @@ Interested in:
 - Computational social systems
 
 Currently building:
-- Visualized-Deadline:Trying to externalize human attention management.
+- Visual Deadline:Trying to externalize human attention management.
 - BLOCK:A blacklist-first operating layer for digital environments.
-- Quant
+- Quant trading
 
 -  Interested in reinforcement learning for human-AI systems.
 -  How to reach me: RanchoTao@gmail.com
