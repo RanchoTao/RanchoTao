@@ -14,7 +14,6 @@ Interested in:
 Currently building:
 - Visual Deadline:Trying to externalize human attention management.
 - BLOCK:A blacklist-first operating layer for digital environments.
-- Quant trading
 
 -  Interested in reinforcement learning for human-AI systems.
 -  How to reach me: RanchoTao@gmail.com
