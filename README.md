@@ -28,6 +28,4 @@ Website: RanchoTao.com
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" alt="Overleaf">
-  <img src="./assets/badges/openai.svg" alt="OpenAI">
-  <img src="./assets/badges/codex.svg" alt="Codex">
 </p>
