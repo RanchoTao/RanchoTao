@@ -1,4 +1,4 @@
-## Math & AI undergraduate at BIMSA.
+## Math & AI at BIMSA.
 
 I am interested in building systems that extend human cognition and decision-making.
 
