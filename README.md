@@ -16,9 +16,6 @@ Currently building:
 - **BLOCK**: a blacklist-first operating layer for digital environments.
 - **MarketManifold**: visual tools for understanding market structure.
 
-Reach me: RanchoTao@gmail.com  
-Website: RanchoTao.com
-
 -  How to reach me: RanchoTao@gmail.com
 -  Ask me about anything [here](https://github.com/RanchoTao/RanchoTao/issues)
 
