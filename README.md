@@ -2,20 +2,6 @@
 
 I am interested in building systems that extend human cognition and decision-making.
 
-My current work focuses on:
-
-- **Digital Life**: what makes a digital system persistent, bounded, self-maintaining, and identity-preserving.
-- **Cognitive Reconstruction**: treating cognition as a modifiable system of world models, values, attention, reasoning, and updates.
-- **World Models & Agents**: modeling how agents learn, act, and adapt in structured environments.
-- **AI-native Personal Operating Systems**: tools for attention, planning, memory, and long-horizon execution.
-- **Quantitative Systems**: market structure, probabilistic decisions, and computational social systems.
-
-Currently building:
-
-- **Visual Deadline**: externalizing human attention management.
-- **BLOCK**: a blacklist-first operating layer for digital environments.
-- **MarketManifold**: visual tools for understanding market structure.
-
 -  How to reach me: RanchoTao@gmail.com
 -  Ask me about anything [here](https://github.com/RanchoTao/RanchoTao/issues)
 
