@@ -13,8 +13,9 @@ Building:
 - [Visual-Deadline](https://github.com/RanchoTao/Visual-Deadline) — a cognitive scheduling system for task pressure, attention, and long-term planning
 - [Oppor-Radar](https://github.com/RanchoTao/Oppor-Radar) — an automated opportunity intelligence system for research, competitions, events, and academic opportunities
 
-📫 RanchoTao@gmail.com  
-🌐 [RanchoTao.com](http://ranchotao.com/)
+ RanchoTao@gmail.com  
+ [RanchoTao.com](http://ranchotao.com/)
+ 
 𝕏 @RanchoTao
 Ask me about anything [here](https://github.com/RanchoTao/RanchoTao/issues)
 
