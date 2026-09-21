@@ -11,8 +11,6 @@ Currently exploring:
 
  RanchoTao@gmail.com  
  [RanchoTao.com](http://ranchotao.com/)
- 
-𝕏 @RanchoTao
 
 Ask me about anything [here](https://github.com/RanchoTao/RanchoTao/issues)
 
