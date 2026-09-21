@@ -13,18 +13,10 @@ Building:
 - [Visual-Deadline](https://github.com/RanchoTao/Visual-Deadline) — a cognitive scheduling system for task pressure, attention, and long-term planning
 - [Oppor-Radar](https://github.com/RanchoTao/Oppor-Radar) — an automated opportunity intelligence system for research, competitions, events, and academic opportunities
 
-**Stack:** Python · PyTorch · TypeScript · C++ · Git
-
 📫 RanchoTao@gmail.com  
-🌐 RanchoTao.com  
+🌐 [RanchoTao.com](http://ranchotao.com/)
 𝕏 @RanchoTao
-
-## Math & AI at BIMSA
-
-I am interested in building systems that extend human cognition and decision-making.
-
--  How to reach me: RanchoTao@gmail.com
--  Ask me about anything [here](https://github.com/RanchoTao/RanchoTao/issues)
+Ask me about anything [here](https://github.com/RanchoTao/RanchoTao/issues)
 
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
