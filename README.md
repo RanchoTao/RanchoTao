@@ -1,6 +1,6 @@
 # Shengye Tao
 
-I'm currently looking for internships as a large-model researcher or quantitative trading researcher. HR are welcome to contact me.
+🔍 Open to internships in LLM research or quantitative research — reach me at RanchoTao@gmail.com.
 
 Undergraduate in Mathematics & AI at [BIMSA](https://www.bimsa.cn/), Beijing.
 I study how language models learn and reason, and I build systems that
